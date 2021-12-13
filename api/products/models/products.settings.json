@@ -36,6 +36,12 @@
     },
     "featured": {
       "type": "boolean"
+    },
+    "product_description": {
+      "type": "text"
+    },
+    "product_description_specifics": {
+      "type": "richtext"
     }
   }
 }
